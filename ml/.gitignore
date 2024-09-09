@@ -1,0 +1,4 @@
+# Ignore bigfat keras models
+*.keras
+savedModel
+Dockerfile

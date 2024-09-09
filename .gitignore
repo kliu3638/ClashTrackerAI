@@ -1,0 +1,10 @@
+# Backend
+.env
+venv/
+__pycache__
+
+# ML
+*.keras
+savedModel
+Dockerfile
+*.jpg
